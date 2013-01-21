@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  game_type_id: 1
+  joined_players: 1
+  total_players: 1
+  entry_fee: 9.99
+  payout_value: 9.99
+  locks_at: 2013-01-21 10:38:40
+  starts_at: 2013-01-21 10:38:40
+  lock_type_id: 1
+
+two:
+  game_type_id: 1
+  joined_players: 1
+  total_players: 1
+  entry_fee: 9.99
+  payout_value: 9.99
+  locks_at: 2013-01-21 10:38:40
+  starts_at: 2013-01-21 10:38:40
+  lock_type_id: 1
